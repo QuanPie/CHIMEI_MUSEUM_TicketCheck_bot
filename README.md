@@ -39,7 +39,7 @@ Check is there any ticket soldable, if true, send a message to user by telegram 
     ```
 3. Get \<API_token> and \<chatID>, then replace it in `config.py`.
     -  **API_token**
-        1. Go to [BotFather]('https://t.me/BotFather') .
+        1. Go to [BotFather](https://t.me/BotFather) .
         2. Send '/newbot' to creat a new bot.
         3. Copy HTTP API, this is your \<API_token>.
 
